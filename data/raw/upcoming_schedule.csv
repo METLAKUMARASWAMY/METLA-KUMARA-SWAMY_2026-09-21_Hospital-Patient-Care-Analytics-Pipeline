@@ -1,0 +1,141 @@
+slot_id,doctor_id,department,slot_time,slot_type,patient_id,triage_level
+S0001,D01,Cardiology,2026-09-22 09:00:00,regular,P0080,4.0
+S0002,D01,Cardiology,2026-09-22 09:30:00,regular,P0157,4.0
+S0003,D01,Cardiology,2026-09-22 10:00:00,regular,P0132,4.0
+S0004,D01,Cardiology,2026-09-22 10:30:00,buffer,P0071,4.0
+S0005,D01,Cardiology,2026-09-22 11:00:00,regular,P0175,4.0
+S0006,D01,Cardiology,2026-09-22 11:30:00,regular,P0041,4.0
+S0007,D01,Cardiology,2026-09-22 12:00:00,regular,P0199,4.0
+S0008,D01,Cardiology,2026-09-22 12:30:00,regular,P0125,4.0
+S0009,D01,Cardiology,2026-09-22 14:00:00,regular,P0029,4.0
+S0010,D01,Cardiology,2026-09-22 14:30:00,regular,P0034,4.0
+S0011,D01,Cardiology,2026-09-22 15:00:00,regular,P0030,4.0
+S0012,D01,Cardiology,2026-09-22 15:30:00,regular,P0144,4.0
+S0013,D01,Cardiology,2026-09-22 16:00:00,regular,P0054,4.0
+S0014,D01,Cardiology,2026-09-22 16:30:00,regular,P0192,4.0
+S0015,D02,Cardiology,2026-09-22 09:00:00,regular,P0046,2.0
+S0016,D02,Cardiology,2026-09-22 09:30:00,regular,P0140,2.0
+S0017,D02,Cardiology,2026-09-22 10:00:00,regular,P0002,2.0
+S0018,D02,Cardiology,2026-09-22 10:30:00,buffer,P0126,2.0
+S0019,D02,Cardiology,2026-09-22 11:00:00,regular,P0174,2.0
+S0020,D02,Cardiology,2026-09-22 11:30:00,regular,P0010,2.0
+S0021,D02,Cardiology,2026-09-22 12:00:00,regular,P0084,2.0
+S0022,D02,Cardiology,2026-09-22 12:30:00,regular,P0017,2.0
+S0023,D02,Cardiology,2026-09-22 14:00:00,regular,P0134,2.0
+S0024,D02,Cardiology,2026-09-22 14:30:00,regular,P0106,2.0
+S0025,D02,Cardiology,2026-09-22 15:00:00,regular,P0050,2.0
+S0026,D02,Cardiology,2026-09-22 15:30:00,regular,P0005,2.0
+S0027,D02,Cardiology,2026-09-22 16:00:00,regular,P0123,2.0
+S0028,D02,Cardiology,2026-09-22 16:30:00,regular,P0060,2.0
+S0029,D03,General Medicine,2026-09-22 09:00:00,regular,P0190,4.0
+S0030,D03,General Medicine,2026-09-22 09:30:00,regular,P0189,4.0
+S0031,D03,General Medicine,2026-09-22 10:00:00,regular,P0196,4.0
+S0032,D03,General Medicine,2026-09-22 10:30:00,buffer,,
+S0033,D03,General Medicine,2026-09-22 11:00:00,regular,P0153,4.0
+S0034,D03,General Medicine,2026-09-22 11:30:00,regular,,
+S0035,D03,General Medicine,2026-09-22 12:00:00,regular,P0096,4.0
+S0036,D03,General Medicine,2026-09-22 12:30:00,regular,P0127,4.0
+S0037,D03,General Medicine,2026-09-22 14:00:00,regular,P0168,4.0
+S0038,D03,General Medicine,2026-09-22 14:30:00,regular,P0012,4.0
+S0039,D03,General Medicine,2026-09-22 15:00:00,regular,P0178,4.0
+S0040,D03,General Medicine,2026-09-22 15:30:00,regular,P0067,4.0
+S0041,D03,General Medicine,2026-09-22 16:00:00,regular,P0183,4.0
+S0042,D03,General Medicine,2026-09-22 16:30:00,regular,,
+S0043,D04,General Medicine,2026-09-22 09:00:00,regular,P0103,4.0
+S0044,D04,General Medicine,2026-09-22 09:30:00,regular,P0155,4.0
+S0045,D04,General Medicine,2026-09-22 10:00:00,regular,P0118,4.0
+S0046,D04,General Medicine,2026-09-22 10:30:00,buffer,,
+S0047,D04,General Medicine,2026-09-22 11:00:00,regular,P0074,4.0
+S0048,D04,General Medicine,2026-09-22 11:30:00,regular,P0088,4.0
+S0049,D04,General Medicine,2026-09-22 12:00:00,regular,,
+S0050,D04,General Medicine,2026-09-22 12:30:00,regular,P0107,4.0
+S0051,D04,General Medicine,2026-09-22 14:00:00,regular,,
+S0052,D04,General Medicine,2026-09-22 14:30:00,regular,P0173,4.0
+S0053,D04,General Medicine,2026-09-22 15:00:00,regular,,
+S0054,D04,General Medicine,2026-09-22 15:30:00,regular,P0114,4.0
+S0055,D04,General Medicine,2026-09-22 16:00:00,regular,P0018,4.0
+S0056,D04,General Medicine,2026-09-22 16:30:00,regular,P0049,4.0
+S0057,D05,General Medicine,2026-09-22 09:00:00,regular,P0121,4.0
+S0058,D05,General Medicine,2026-09-22 09:30:00,regular,P0079,4.0
+S0059,D05,General Medicine,2026-09-22 10:00:00,regular,P0105,4.0
+S0060,D05,General Medicine,2026-09-22 10:30:00,buffer,,
+S0061,D05,General Medicine,2026-09-22 11:00:00,regular,P0075,4.0
+S0062,D05,General Medicine,2026-09-22 11:30:00,regular,P0011,4.0
+S0063,D05,General Medicine,2026-09-22 12:00:00,regular,P0167,4.0
+S0064,D05,General Medicine,2026-09-22 12:30:00,regular,P0166,4.0
+S0065,D05,General Medicine,2026-09-22 14:00:00,regular,P0014,4.0
+S0066,D05,General Medicine,2026-09-22 14:30:00,regular,P0038,4.0
+S0067,D05,General Medicine,2026-09-22 15:00:00,regular,P0131,4.0
+S0068,D05,General Medicine,2026-09-22 15:30:00,regular,P0003,4.0
+S0069,D05,General Medicine,2026-09-22 16:00:00,regular,P0039,4.0
+S0070,D05,General Medicine,2026-09-22 16:30:00,regular,,
+S0071,D06,Orthopedics,2026-09-22 09:00:00,regular,P0068,4.0
+S0072,D06,Orthopedics,2026-09-22 09:30:00,regular,P0047,4.0
+S0073,D06,Orthopedics,2026-09-22 10:00:00,regular,P0085,4.0
+S0074,D06,Orthopedics,2026-09-22 10:30:00,buffer,P0093,4.0
+S0075,D06,Orthopedics,2026-09-22 11:00:00,regular,P0135,4.0
+S0076,D06,Orthopedics,2026-09-22 11:30:00,regular,P0122,4.0
+S0077,D06,Orthopedics,2026-09-22 12:00:00,regular,P0027,4.0
+S0078,D06,Orthopedics,2026-09-22 12:30:00,regular,P0056,4.0
+S0079,D06,Orthopedics,2026-09-22 14:00:00,regular,P0116,4.0
+S0080,D06,Orthopedics,2026-09-22 14:30:00,regular,P0130,4.0
+S0081,D06,Orthopedics,2026-09-22 15:00:00,regular,P0148,4.0
+S0082,D06,Orthopedics,2026-09-22 15:30:00,regular,P0089,4.0
+S0083,D06,Orthopedics,2026-09-22 16:00:00,regular,P0077,4.0
+S0084,D06,Orthopedics,2026-09-22 16:30:00,regular,P0092,4.0
+S0085,D07,Orthopedics,2026-09-22 09:00:00,regular,P0111,4.0
+S0086,D07,Orthopedics,2026-09-22 09:30:00,regular,,
+S0087,D07,Orthopedics,2026-09-22 10:00:00,regular,P0129,4.0
+S0088,D07,Orthopedics,2026-09-22 10:30:00,buffer,,
+S0089,D07,Orthopedics,2026-09-22 11:00:00,regular,P0146,4.0
+S0090,D07,Orthopedics,2026-09-22 11:30:00,regular,P0194,4.0
+S0091,D07,Orthopedics,2026-09-22 12:00:00,regular,P0139,4.0
+S0092,D07,Orthopedics,2026-09-22 12:30:00,regular,P0055,4.0
+S0093,D07,Orthopedics,2026-09-22 14:00:00,regular,P0021,4.0
+S0094,D07,Orthopedics,2026-09-22 14:30:00,regular,P0040,4.0
+S0095,D07,Orthopedics,2026-09-22 15:00:00,regular,P0036,4.0
+S0096,D07,Orthopedics,2026-09-22 15:30:00,regular,P0004,4.0
+S0097,D07,Orthopedics,2026-09-22 16:00:00,regular,,
+S0098,D07,Orthopedics,2026-09-22 16:30:00,regular,P0097,4.0
+S0099,D08,Pediatrics,2026-09-22 09:00:00,regular,P0138,4.0
+S0100,D08,Pediatrics,2026-09-22 09:30:00,regular,P0185,4.0
+S0101,D08,Pediatrics,2026-09-22 10:00:00,regular,P0037,4.0
+S0102,D08,Pediatrics,2026-09-22 10:30:00,buffer,,
+S0103,D08,Pediatrics,2026-09-22 11:00:00,regular,P0112,4.0
+S0104,D08,Pediatrics,2026-09-22 11:30:00,regular,P0007,4.0
+S0105,D08,Pediatrics,2026-09-22 12:00:00,regular,P0165,4.0
+S0106,D08,Pediatrics,2026-09-22 12:30:00,regular,P0164,4.0
+S0107,D08,Pediatrics,2026-09-22 14:00:00,regular,P0195,4.0
+S0108,D08,Pediatrics,2026-09-22 14:30:00,regular,P0008,4.0
+S0109,D08,Pediatrics,2026-09-22 15:00:00,regular,P0052,4.0
+S0110,D08,Pediatrics,2026-09-22 15:30:00,regular,,
+S0111,D08,Pediatrics,2026-09-22 16:00:00,regular,P0110,4.0
+S0112,D08,Pediatrics,2026-09-22 16:30:00,regular,P0188,4.0
+S0113,D09,Neurology,2026-09-22 09:00:00,regular,P0058,4.0
+S0114,D09,Neurology,2026-09-22 09:30:00,regular,P0128,4.0
+S0115,D09,Neurology,2026-09-22 10:00:00,regular,P0051,4.0
+S0116,D09,Neurology,2026-09-22 10:30:00,buffer,P0072,4.0
+S0117,D09,Neurology,2026-09-22 11:00:00,regular,P0042,4.0
+S0118,D09,Neurology,2026-09-22 11:30:00,regular,P0179,4.0
+S0119,D09,Neurology,2026-09-22 12:00:00,regular,P0169,4.0
+S0120,D09,Neurology,2026-09-22 12:30:00,regular,P0187,4.0
+S0121,D09,Neurology,2026-09-22 14:00:00,regular,P0078,4.0
+S0122,D09,Neurology,2026-09-22 14:30:00,regular,P0094,4.0
+S0123,D09,Neurology,2026-09-22 15:00:00,regular,P0095,4.0
+S0124,D09,Neurology,2026-09-22 15:30:00,regular,P0013,4.0
+S0125,D09,Neurology,2026-09-22 16:00:00,regular,P0020,4.0
+S0126,D09,Neurology,2026-09-22 16:30:00,regular,P0100,4.0
+S0127,D10,Pulmonology,2026-09-22 09:00:00,regular,P0009,4.0
+S0128,D10,Pulmonology,2026-09-22 09:30:00,regular,P0152,4.0
+S0129,D10,Pulmonology,2026-09-22 10:00:00,regular,P0158,4.0
+S0130,D10,Pulmonology,2026-09-22 10:30:00,buffer,,
+S0131,D10,Pulmonology,2026-09-22 11:00:00,regular,P0115,4.0
+S0132,D10,Pulmonology,2026-09-22 11:30:00,regular,P0044,4.0
+S0133,D10,Pulmonology,2026-09-22 12:00:00,regular,,
+S0134,D10,Pulmonology,2026-09-22 12:30:00,regular,,
+S0135,D10,Pulmonology,2026-09-22 14:00:00,regular,P0181,4.0
+S0136,D10,Pulmonology,2026-09-22 14:30:00,regular,,
+S0137,D10,Pulmonology,2026-09-22 15:00:00,regular,P0043,4.0
+S0138,D10,Pulmonology,2026-09-22 15:30:00,regular,,
+S0139,D10,Pulmonology,2026-09-22 16:00:00,regular,P0191,4.0
+S0140,D10,Pulmonology,2026-09-22 16:30:00,regular,P0019,4.0

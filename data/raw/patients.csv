@@ -1,0 +1,207 @@
+patient_id,name,gender,date_of_birth,city,blood_group,chronic_condition,registration_date
+P0001, Ravi Naidu ,female,2017-03-21,Kurnool,B+,,2026-06-23
+P0002, Divya Shetty ,male,1955-09-05,Ongole,A-,Kidney Disease,2025-09-08
+P0003, Meena Prasad ,female,1967-02-02,Guntur,A-,Diabetes,2025-09-17
+P0004, Divya Reddy ,Female,1985-11-19,Guntur,B+,,2026-02-01
+P0005, Priya Shetty ,F,1986-02-16,Ongole,A+,,2026-05-04
+P0006, Ravi Goud ,female,1949-04-26,Ongole,O-,,2026-07-01
+P0007, Arjun Rao ,F,2016-10-27,Guntur,A+,,2026-07-26
+P0008, Mahesh Goud ,Female,1962-08-13,Hyderabad,AB+,Hypertension,2025-08-29
+P0009, Ravi Reddy ,Male,2007-04-27,Markapur,B+,,2026-05-31
+P0010, Kavya Shetty ,female,2015-10-22,Ongole,A+,,2024-09-29
+P0011, Ravi Varma ,F,1978-04-28,Markapur,A-,Hypertension,2026-02-11
+P0012, Kiran Varma ,Female,1938-11-13,Vijayawada,,Diabetes,2025-05-02
+P0013, Kavya Kumar ,male,1959-10-19,Ongole,A-,,2025-04-17
+P0014, Arjun Goud ,female,1958-02-18,Kurnool,A-,Heart Disease,2025-08-20
+P0015, Swathi Kumar ,M,1960-11-06,,A+,Hypertension,2024-11-21
+P0016, Suresh Rao ,M,1955-04-24,Kurnool,B+,Hypertension,2026-05-16
+P0017, Venkat Reddy ,F,1979-07-04,Nellore,A-,,2026-02-19
+P0018, Swathi Prasad ,Female,2013-06-27,Vijayawada,AB+,,2026-02-06
+P0019, Mahesh Reddy ,Female,1951-02-19,Hyderabad,A+,Asthma,2026-04-29
+P0020, Ravi Shetty ,male,1984-09-06,Vijayawada,O-,,2026-01-07
+P0021, Anitha Varma ,F,1980-06-16,Hyderabad,B+,,2025-12-26
+P0022, Naveen Kumar ,F,1992-02-17,Hyderabad,A+,Diabetes,2025-02-12
+P0023, Ravi Kumar ,female,2007-11-19,Nellore,O-,,2026-01-02
+P0024, Kiran Kumar ,F,1943-05-20,Nellore,A+,Kidney Disease,2024-11-26
+P0025, Mahesh Varma ,male,1955-11-12,Ongole,AB+,,2025-02-07
+P0026, Bhavya Goud ,female,1968-04-12,Kurnool,,Asthma,2024-11-08
+P0027, Bhavya Rao ,M,1988-10-10,Nellore,AB+,,2026-05-20
+P0028, Anitha Goud ,female,1952-01-03,Hyderabad,AB+,Diabetes,2024-09-11
+P0029, Suresh Kumar ,M,1977-01-14,Ongole,O+,Hypertension,2025-05-29
+P0030, Arjun Goud ,Male,1985-05-29,Kurnool,,,2024-09-13
+P0031, Bhavya Shetty ,Female,1985-02-13,Vijayawada,AB+,,2025-11-26
+P0032, Kiran Prasad ,Female,2004-09-23,Ongole,O-,,2024-10-03
+P0033, Swathi Varma ,female,2016-07-25,Ongole,A+,Asthma,2025-06-15
+P0034, Mahesh Goud ,Female,1975-10-30,Vijayawada,O-,Diabetes,2026-06-12
+P0035, Venkat Kumar ,F,1946-02-03,Guntur,O+,Kidney Disease,2025-10-18
+P0036, Venkat Rao ,male,2018-11-12,Markapur,AB+,,2026-04-27
+P0037, Kiran Reddy ,M,1948-12-02,Guntur,A+,Diabetes,2024-10-12
+P0038, Arjun Chowdary ,M,1952-02-26,Nellore,AB+,Heart Disease,2025-12-31
+P0039, Divya Prasad ,Male,2000-04-11,Guntur,B+,,2026-02-27
+P0040, Divya Varma ,M,1968-12-16,Hyderabad,B+,,2025-07-10
+P0041, Sita Goud ,F,2010-06-11,Kurnool,A-,,2025-10-08
+P0042, Venkat Reddy ,Female,1957-12-31,Vijayawada,A+,Heart Disease,2026-05-26
+P0043, Mahesh Prasad ,female,1963-06-28,Hyderabad,O+,,2025-01-07
+P0044, Ravi Reddy ,male,1992-12-07,Vijayawada,AB+,Diabetes,2024-12-17
+P0045, Ravi Rao ,female,2018-12-15,Markapur,A+,,2025-02-27
+P0046, Sita Prasad ,female,1939-07-02,Markapur,B+,Asthma,2025-05-27
+P0047, Divya Shetty ,female,1984-10-29,Hyderabad,O+,Hypertension,2025-10-24
+P0048, Meena Varma ,male,1946-03-03,Hyderabad,AB+,,2025-07-18
+P0049, Divya Kumar ,Male,1964-10-18,Kurnool,O-,,2025-08-02
+P0050, Sita Varma ,female,1956-07-17,Markapur,O-,,2026-04-08
+P0051, Ravi Kumar ,Male,1958-05-28,Guntur,B+,Hypertension,2026-06-05
+P0052, Lakshmi Goud ,male,2007-02-02,Markapur,A+,,2026-02-05
+P0053, Venkat Prasad ,M,1992-05-25,Markapur,A+,Diabetes,2025-09-17
+P0054, Priya Reddy ,Female,1983-04-03,Ongole,AB+,,2026-04-11
+P0055, Rahul Kumar ,F,1980-12-03,Nellore,A+,,2026-05-19
+P0056, Meena Reddy ,M,2021-06-10,Markapur,B+,,2024-12-13
+P0057, Rahul Shetty ,Male,1975-11-28,Hyderabad,O-,Heart Disease,2025-11-12
+P0058, Srinivas Sharma ,F,2011-06-25,Vijayawada,O-,,2025-06-19
+P0059, Divya Prasad ,F,1959-05-30,Ongole,O-,,2025-07-31
+P0060, Suresh Varma ,Female,1963-12-31,Vijayawada,B+,Diabetes,2025-03-05
+P0061, Swathi Chowdary ,Male,1942-10-16,Kurnool,AB+,,2025-03-02
+P0062, Venkat Reddy ,female,1959-05-31,Guntur,AB+,Heart Disease,2026-01-06
+P0063, Suresh Shetty ,male,1992-04-14,Markapur,B+,,2024-12-16
+P0064, Divya Naidu ,Female,1938-08-29,Markapur,AB+,,2025-11-15
+P0065, Priya Chowdary ,Male,1987-08-06,Kurnool,AB+,Asthma,2024-12-25
+P0066, Divya Varma ,M,1996-01-02,Markapur,O+,,2025-10-22
+P0067, Suresh Varma ,M,1945-02-19,Nellore,A-,,2026-05-16
+P0068, Priya Shetty ,male,1992-03-28,Guntur,A-,,2025-02-15
+P0069, Kiran Reddy ,female,2017-12-21,,AB+,,2026-07-11
+P0070, Venkat Chowdary ,M,1982-12-29,Markapur,A-,,2025-02-07
+P0071, Arjun Sharma ,male,1954-04-16,Hyderabad,A-,,2026-07-02
+P0072, Naveen Sharma ,M,2008-07-24,Nellore,AB+,,2026-03-10
+P0073, Kiran Reddy ,female,1984-06-07,Vijayawada,B+,,2025-06-05
+P0074, Bhavya Reddy ,Female,2012-08-17,Ongole,A-,,2024-10-11
+P0075, Bhavya Rao ,Female,1964-03-02,Hyderabad,A-,Hypertension,2025-10-20
+P0076, Sita Naidu ,Female,1983-02-06,Guntur,,,2026-05-09
+P0077, Kavya Sharma ,F,1995-02-12,Vijayawada,A+,,2026-02-19
+P0078, Mahesh Varma ,Female,2004-10-20,Guntur,O+,,2024-11-12
+P0079, Priya Varma ,M,1975-07-09,Ongole,,Asthma,2025-03-11
+P0080, Bhavya Sharma ,female,1966-07-02,Guntur,AB+,Asthma,2026-05-23
+P0081, Kiran Sharma ,Female,1942-04-23,Ongole,O-,,2025-11-05
+P0082, Swathi Rao ,Female,1986-02-05,Markapur,A+,,2026-01-28
+P0083, Bhavya Chowdary ,male,2009-11-30,Guntur,A+,,2026-03-30
+P0084, Srinivas Naidu ,Female,1951-02-03,Markapur,A-,,2024-12-17
+P0085, Naveen Kumar ,male,1969-02-21,Guntur,,Diabetes,2025-05-26
+P0086, Anitha Sharma ,M,1962-08-24,Hyderabad,AB+,,2026-03-29
+P0087, Venkat Sharma ,female,2016-06-04,Ongole,O+,,2025-05-03
+P0088, Kiran Rao ,Male,1997-01-05,Markapur,,,2025-10-16
+P0089, Sita Chowdary ,M,1957-01-16,Markapur,O-,Diabetes,2026-06-19
+P0090, Rahul Chowdary ,F,1951-02-10,Vijayawada,A+,,2025-09-21
+P0091, Srinivas Prasad ,Male,1985-10-11,Ongole,A-,Heart Disease,2026-03-25
+P0092, Divya Varma ,female,1954-04-26,Vijayawada,O-,,2026-02-11
+P0093, Srinivas Varma ,male,1949-08-18,,AB+,Asthma,2024-11-24
+P0094, Kavya Naidu ,M,1990-04-02,Guntur,O+,,2025-03-22
+P0095, Suresh Prasad ,female,1945-01-15,Guntur,A+,Heart Disease,2026-04-30
+P0096, Rahul Chowdary ,F,1999-01-23,Vijayawada,A-,Asthma,2024-12-14
+P0097, Lakshmi Sharma ,Male,2002-09-25,Vijayawada,O+,Asthma,2025-06-25
+P0098, Divya Varma ,Female,1964-02-23,Kurnool,A+,Heart Disease,2024-11-27
+P0099, Divya Naidu ,F,1968-04-20,Vijayawada,,Heart Disease,2025-02-25
+P0100, Bhavya Chowdary ,M,2012-07-25,Kurnool,O-,,2025-12-07
+P0101, Mahesh Prasad ,Female,1951-03-22,Vijayawada,B+,Heart Disease,2025-07-23
+P0102, Srinivas Goud ,male,2006-10-04,Ongole,B+,,2025-07-26
+P0103, Kiran Shetty ,Female,1954-07-29,Ongole,A-,Diabetes,2025-03-16
+P0104, Swathi Chowdary ,female,2023-09-09,Guntur,B+,,2026-02-09
+P0105, Meena Chowdary ,F,1954-01-15,,O-,Asthma,2025-12-11
+P0106, Suresh Prasad ,Female,1955-06-11,Ongole,O-,Diabetes,2026-02-11
+P0107, Suresh Naidu ,Male,1956-04-13,Hyderabad,O-,,2026-01-06
+P0108, Divya Goud ,Male,1966-01-11,Vijayawada,O-,Hypertension,2026-04-11
+P0109, Rahul Sharma ,male,1983-04-08,Hyderabad,B+,,2026-07-07
+P0110, Ravi Reddy ,female,1962-06-23,Nellore,B+,,2024-10-12
+P0111, Sita Kumar ,F,1999-12-02,Guntur,O+,,2026-06-10
+P0112, Swathi Goud ,male,1955-11-30,,O+,,2024-11-18
+P0113, Mahesh Kumar ,Female,1976-06-19,Kurnool,O-,,2026-07-30
+P0114, Sita Rao ,female,1984-04-21,Guntur,A-,,2025-02-03
+P0115, Srinivas Naidu ,female,1980-05-04,Ongole,AB+,,2025-12-15
+P0116, Venkat Reddy ,Male,1973-12-04,,O-,,2025-08-04
+P0117, Meena Naidu ,Female,2020-11-08,Vijayawada,AB+,,2026-01-16
+P0118, Sita Prasad ,F,2011-11-10,Markapur,O+,,2025-08-23
+P0119, Naveen Kumar ,male,2002-08-24,Vijayawada,O+,,2025-09-19
+P0120, Priya Goud ,male,2013-10-25,Vijayawada,AB+,Asthma,2025-07-27
+P0121, Arjun Goud ,M,1986-04-06,,A+,Asthma,2025-10-30
+P0122, Priya Naidu ,Male,1966-06-23,Nellore,A-,Diabetes,2025-07-22
+P0123, Arjun Reddy ,F,1966-12-20,Ongole,AB+,,2025-01-01
+P0124, Suresh Varma ,female,1982-09-01,Ongole,A-,Diabetes,2025-10-01
+P0125, Arjun Reddy ,female,1948-08-11,Nellore,AB+,Heart Disease,2025-11-22
+P0126, Divya Naidu ,Male,1975-05-09,Markapur,,Hypertension,2026-05-01
+P0127, Divya Shetty ,Female,2018-05-07,Guntur,O-,,2025-11-23
+P0128, Sita Shetty ,M,1957-07-19,Markapur,AB+,Diabetes,2026-05-06
+P0129, Venkat Prasad ,Female,1974-06-11,Markapur,O+,Hypertension,2026-03-27
+P0130, Priya Naidu ,male,1969-01-11,Hyderabad,A+,,2024-10-04
+P0131, Meena Varma ,male,1975-01-14,Markapur,A-,Hypertension,2026-05-31
+P0132, Kiran Prasad ,Female,1976-03-19,Markapur,O-,,2025-08-29
+P0133, Meena Naidu ,male,2017-04-10,Hyderabad,A-,,2024-12-25
+P0134, Naveen Varma ,Female,1974-10-03,Ongole,O-,Asthma,2024-10-03
+P0135, Rahul Kumar ,F,1955-02-15,Kurnool,O-,,2026-04-21
+P0136, Arjun Rao ,female,1997-10-10,Markapur,A-,,2026-04-09
+P0137, Meena Chowdary ,F,1970-08-15,Ongole,AB+,,2025-11-14
+P0138, Venkat Reddy ,Male,2022-04-08,Markapur,A+,,2025-07-09
+P0139, Arjun Reddy ,Female,1994-05-20,Nellore,A+,,2024-09-29
+P0140, Priya Goud ,male,1985-08-19,Nellore,B+,Kidney Disease,2026-03-09
+P0141, Naveen Shetty ,F,1937-12-13,Vijayawada,O+,,2026-04-08
+P0142, Bhavya Chowdary ,M,2006-04-17,Ongole,A-,Asthma,2026-02-05
+P0143, Lakshmi Goud ,M,1999-12-19,Markapur,O+,,2024-11-27
+P0144, Mahesh Shetty ,F,1989-01-26,Vijayawada,A+,Diabetes,2026-07-11
+P0145, Kavya Reddy ,Male,1936-09-05,Ongole,B+,Heart Disease,2025-11-08
+P0146, Divya Sharma ,female,1949-04-30,Nellore,O-,Heart Disease,2026-05-10
+P0147, Swathi Naidu ,female,2020-08-05,Nellore,O-,Asthma,2026-04-14
+P0148, Anitha Kumar ,Female,2003-08-26,Kurnool,O+,,2024-10-29
+P0149, Swathi Prasad ,Female,1952-05-28,Vijayawada,A-,Diabetes,2026-07-31
+P0150, Ravi Sharma ,F,2019-06-02,Markapur,A-,,2025-12-19
+P0151, Venkat Sharma ,M,1949-01-19,Ongole,O-,Hypertension,2024-10-30
+P0152, Naveen Reddy ,male,2000-07-16,Kurnool,O-,,2025-06-02
+P0153, Anitha Reddy ,male,1944-04-14,Vijayawada,AB+,Diabetes,2026-06-12
+P0154, Suresh Shetty ,female,1999-02-24,Nellore,,,2025-09-10
+P0155, Naveen Kumar ,Male,1985-08-13,Vijayawada,AB+,Diabetes,2024-09-21
+P0156, Kavya Rao ,male,1965-08-04,Ongole,,Diabetes,2025-10-25
+P0157, Lakshmi Rao ,male,2013-06-07,Hyderabad,O+,,2025-07-27
+P0158, Lakshmi Sharma ,M,1974-09-10,Kurnool,AB+,Heart Disease,2025-07-25
+P0159, Bhavya Chowdary ,M,1980-06-29,Hyderabad,AB+,Diabetes,2025-04-26
+P0160, Meena Sharma ,male,1955-11-02,Kurnool,AB+,Diabetes,2026-03-23
+P0161, Ravi Kumar ,M,1936-09-27,Guntur,O+,Kidney Disease,2024-12-22
+P0162, Suresh Rao ,M,1965-09-10,Ongole,O+,,2024-09-08
+P0163, Swathi Goud ,male,1988-05-12,Ongole,A+,,2026-04-24
+P0164, Swathi Varma ,Male,1988-09-09,Hyderabad,AB+,,2025-01-06
+P0165, Srinivas Varma ,F,1988-06-20,Vijayawada,AB+,Hypertension,2025-01-07
+P0166, Priya Varma ,M,1953-01-24,Vijayawada,,,2025-02-28
+P0167, Mahesh Prasad ,Male,1996-02-12,Hyderabad,AB+,,2025-11-15
+P0168, Kavya Kumar ,male,2010-04-08,Nellore,O+,,2025-09-07
+P0169, Meena Naidu ,female,1995-07-24,Hyderabad,A+,,2024-12-22
+P0170, Meena Chowdary ,F,2022-10-24,Hyderabad,B+,,2026-04-16
+P0171, Swathi Naidu ,female,2015-04-01,Markapur,O+,,2024-12-29
+P0172, Naveen Goud ,male,2016-12-03,Guntur,O+,,2024-10-26
+P0173, Anitha Sharma ,male,1957-03-05,Kurnool,O+,,2025-04-11
+P0174, Divya Prasad ,male,1961-03-18,Kurnool,O+,,2025-12-06
+P0175, Arjun Goud ,female,1962-09-12,Ongole,A-,,2025-07-06
+P0176, Rahul Chowdary ,female,1984-06-28,Guntur,A+,,2026-06-27
+P0177, Priya Shetty ,female,1960-11-06,Vijayawada,B+,Kidney Disease,2024-10-18
+P0178, Anitha Chowdary ,Female,2009-11-02,Kurnool,A+,,2025-12-05
+P0179, Kiran Goud ,F,1945-03-16,Markapur,B+,,2026-06-23
+P0180, Rahul Naidu ,F,1980-04-28,Nellore,A-,Hypertension,2025-01-22
+P0181, Srinivas Sharma ,female,1942-07-31,Guntur,A+,Diabetes,2025-04-28
+P0182, Swathi Chowdary ,Male,2010-08-25,Ongole,O+,Asthma,2025-05-23
+P0183, Divya Reddy ,male,1980-08-21,Vijayawada,A+,Heart Disease,2026-06-25
+P0184, Ravi Naidu ,female,1963-05-06,Guntur,O-,Diabetes,2025-02-22
+P0185, Bhavya Shetty ,male,1981-07-21,Nellore,A-,,2025-05-12
+P0186, Kavya Varma ,Male,1985-06-18,Guntur,B+,Kidney Disease,2025-01-23
+P0187, Priya Reddy ,F,2010-07-08,Kurnool,B+,,2024-12-30
+P0188, Ravi Naidu ,Male,1990-10-02,,A+,Kidney Disease,2026-03-06
+P0189, Anitha Reddy ,female,2002-09-10,Hyderabad,O+,,2026-03-07
+P0190, Suresh Kumar ,female,1998-06-07,Markapur,A-,,2024-10-24
+P0191, Srinivas Shetty ,Male,1963-11-03,Kurnool,AB+,Hypertension,2025-07-26
+P0192, Arjun Sharma ,F,1969-05-28,Guntur,O-,,2025-09-29
+P0193, Priya Naidu ,female,1971-03-20,Guntur,O+,Diabetes,2026-01-12
+P0194, Kiran Chowdary ,Female,1992-12-26,Markapur,B+,Hypertension,2025-05-11
+P0195, Srinivas Kumar ,Male,1939-11-13,Nellore,O+,,2025-02-20
+P0196, Priya Rao ,F,2016-09-16,Ongole,B+,,2026-07-31
+P0197, Lakshmi Prasad ,F,1994-07-16,Nellore,O-,Heart Disease,2025-07-11
+P0198, Divya Varma ,F,2014-05-22,Kurnool,B+,,2024-09-05
+P0199, Arjun Shetty ,M,1995-04-21,Kurnool,O+,Diabetes,2026-01-17
+P0200, Mahesh Varma ,Male,1940-04-10,Nellore,AB+,,2026-01-17
+P0059, Divya Prasad ,F,1959-05-30,Ongole,O-,,2025-07-31
+P0041, Sita Goud ,F,2010-06-11,Kurnool,A-,,2025-10-08
+P0035, Venkat Kumar ,F,1946-02-03,Guntur,O+,Kidney Disease,2025-10-18
+P0103, Kiran Shetty ,Female,1954-07-29,Ongole,A-,Diabetes,2025-03-16
+P0185, Bhavya Shetty ,male,1981-07-21,Nellore,A-,,2025-05-12
+P0199, Arjun Shetty ,M,1995-04-21,Kurnool,O+,Diabetes,2026-01-17

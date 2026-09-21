@@ -1,0 +1,451 @@
+note_id,patient_id,doctor_id,visit_date,note_text
+N0001,P0013,D09,2026-09-06,Patient complains of joint pain and fever. Advised rest and follow-up.
+N0002,P0117,D03,2026-08-03,Routine check-up. Mild joint pain. No other complaints.
+N0003,P0007,D06,2026-09-06,Patient complains of swelling and fever. Advised rest and follow-up.
+N0004,P0199,D02,2026-08-07,Routine check-up. Mild fever. No other complaints.
+N0005,P0020,D07,2026-08-13,Presented with headache since 3 days. Fatigue also reported. Prescribed medication.
+N0006,P0036,D06,2026-08-14,"Patient reports dizziness, swelling. Referred for further tests."
+N0007,P0142,D04,2026-08-05,Patient complains of fatigue and headache. Advised rest and follow-up.
+N0008,P0193,D06,2026-09-13,ROUTINE CHECK-UP. MILD JOINT PAIN. NO OTHER COMPLAINTS.
+N0009,P0091,D05,2026-09-06,Presented with fever since 3 days. Palpitations also reported. Prescribed medication.
+N0010,P0069,D05,2026-08-09,Patient complains of dizziness and fever. Advised rest and follow-up.
+N0011,P0111,D06,2026-08-26,"Patient reports cough, swelling. Referred for further tests."
+N0012,P0123,D10,2026-09-04,"Patient reports headache, swelling. Referred for further tests."
+N0013,P0147,D08,2026-08-16,Presented with fever since 3 days. Dizziness also reported. Prescribed medication.
+N0014,P0148,D05,2026-08-15,"Patient reports cough, dizziness. Referred for further tests."
+N0015,P0187,D09,2026-08-08,Presented with fatigue since 3 days. Cough also reported. Prescribed medication.
+N0016,P0163,D05,2026-09-04,"Patient reports dizziness, fever. Referred for further tests."
+N0017,P0070,D04,2026-08-19,Patient complains of cough and dizziness. Advised rest and follow-up.
+N0018,P0041,D09,2026-09-12,Presented with headache since 3 days. Fever also reported. Prescribed medication.
+N0019,P0186,D05,2026-08-06,Patient complains of cough and fatigue. Advised rest and follow-up.
+N0020,P0198,D02,2026-08-20,Presented with cough since 3 days. Dizziness also reported. Prescribed medication.
+N0021,P0162,D02,2026-08-20,Routine check-up. Mild fatigue. No other complaints.
+N0022,P0091,D08,2026-08-04,Patient complains of palpitations and cough. Advised rest and follow-up.
+N0023,P0179,D09,2026-08-04,"Patient reports fever, swelling. Referred for further tests."
+N0024,P0147,D06,2026-08-25,Presented with cough since 3 days. Swelling also reported. Prescribed medication.
+N0025,P0187,D07,2026-08-28,Patient complains of fatigue and dizziness. Advised rest and follow-up.
+N0026,P0080,D04,2026-09-04,Patient complains of swelling and joint pain. Advised rest and follow-up.
+N0027,P0129,D05,2026-09-13,PRESENTED WITH CHEST PAIN SINCE 3 DAYS. FEVER ALSO REPORTED. PRESCRIBED MEDICATION.
+N0028,P0030,D05,2026-08-14,Presented with cough since 3 days. Headache also reported. Prescribed medication.
+N0029,P0069,D08,2026-08-23,Routine check-up. Mild joint pain. No other complaints.
+N0030,P0044,D07,2026-08-03,PRESENTED WITH SWELLING SINCE 3 DAYS. HEADACHE ALSO REPORTED. PRESCRIBED MEDICATION.
+N0031,P0099,D01,2026-08-24,Presented with chest pain since 3 days. Shortness of breath also reported. Prescribed medication.
+N0032,P0100,D08,2026-08-30,Routine check-up. Mild joint pain. No other complaints.
+N0033,P0026,D04,2026-09-09,Patient complains of cough and headache. Advised rest and follow-up.
+N0034,P0065,D06,2026-08-13,Patient complains of cough and fatigue. Advised rest and follow-up.
+N0035,P0091,D02,2026-09-08,Routine check-up. Mild fever. No other complaints.
+N0036,P0152,D10,2026-09-14,Presented with headache since 3 days. Fever also reported. Prescribed medication.
+N0037,P0087,D02,2026-08-29,Patient complains of fatigue and swelling. Advised rest and follow-up.
+N0038,P0165,D07,2026-08-28,Patient complains of shortness of breath and palpitations. Advised rest and follow-up.
+N0039,P0041,D05,2026-08-03,PATIENT COMPLAINS OF FEVER AND FATIGUE. ADVISED REST AND FOLLOW-UP.
+N0040,P0044,D06,2026-08-24,"Patient reports fever, joint pain. Referred for further tests."
+N0041,P0185,D04,2026-09-06,Patient complains of fatigue and headache. Advised rest and follow-up.
+N0042,P0077,D04,2026-09-09,Presented with headache since 3 days. Swelling also reported. Prescribed medication.
+N0043,P0153,D10,2026-08-08,"Patient reports dizziness, fatigue. Referred for further tests."
+N0044,P0056,D08,2026-09-14,"Patient reports fatigue, fever. Referred for further tests."
+N0045,P0049,D09,2026-08-13,Routine check-up. Mild fatigue. No other complaints.
+N0046,P0163,D10,2026-08-09,Presented with dizziness since 3 days. Headache also reported. Prescribed medication.
+N0047,P0106,D01,2026-08-11,ROUTINE CHECK-UP. MILD DIZZINESS. NO OTHER COMPLAINTS.
+N0048,P0061,D04,2026-08-23,Presented with headache since 3 days. Dizziness also reported. Prescribed medication.
+N0049,P0157,D07,2026-09-02,"Patient reports joint pain, headache. Referred for further tests."
+N0050,P0027,D02,2026-09-02,Patient complains of joint pain and cough. Advised rest and follow-up.
+N0051,P0031,D09,2026-08-31,Presented with dizziness since 3 days. Cough also reported. Prescribed medication.
+N0052,P0016,D01,2026-09-04,Routine check-up. Mild chest pain. No other complaints.
+N0053,P0139,D08,2026-09-10,PATIENT COMPLAINS OF DIZZINESS AND JOINT PAIN. ADVISED REST AND FOLLOW-UP.
+N0054,P0075,D09,2026-08-07,Routine check-up. Mild chest pain. No other complaints.
+N0055,P0022,D08,2026-08-19,Patient complains of swelling and dizziness. Advised rest and follow-up.
+N0056,P0157,D09,2026-09-10,"PATIENT REPORTS COUGH, DIZZINESS. REFERRED FOR FURTHER TESTS."
+N0057,P0156,D06,2026-08-11,"Patient reports headache, cough. Referred for further tests."
+N0058,P0031,D07,2026-09-08,Presented with swelling since 3 days. Joint pain also reported. Prescribed medication.
+N0059,P0141,D05,2026-09-09,Presented with fatigue since 3 days. Dizziness also reported. Prescribed medication.
+N0060,P0149,D02,2026-08-11,Patient complains of joint pain and swelling. Advised rest and follow-up.
+N0061,P0191,D02,2026-08-28,"Patient reports cough, shortness of breath. Referred for further tests."
+N0062,P0116,D04,2026-09-07,"Patient reports headache, cough. Referred for further tests."
+N0063,P0134,D06,2026-08-09,PRESENTED WITH JOINT PAIN SINCE 3 DAYS. FATIGUE ALSO REPORTED. PRESCRIBED MEDICATION.
+N0064,P0109,D09,2026-08-25,Presented with cough since 3 days. Fatigue also reported. Prescribed medication.
+N0065,P0145,D03,2026-08-04,PATIENT COMPLAINS OF FEVER AND SHORTNESS OF BREATH. ADVISED REST AND FOLLOW-UP.
+N0066,P0183,D10,2026-08-02,Routine check-up. Mild palpitations. No other complaints.
+N0067,P0101,D08,2026-08-17,Presented with chest pain since 3 days. Cough also reported. Prescribed medication.
+N0068,P0107,D10,2026-08-14,Patient complains of swelling and headache. Advised rest and follow-up.
+N0069,P0180,D01,2026-08-24,"Patient reports chest pain, cough. Referred for further tests."
+N0070,P0050,D03,2026-09-13,Presented with cough since 3 days. Headache also reported. Prescribed medication.
+N0071,P0104,D02,2026-08-08,PATIENT COMPLAINS OF FEVER AND FATIGUE. ADVISED REST AND FOLLOW-UP.
+N0072,P0176,D04,2026-08-09,Patient complains of cough and dizziness. Advised rest and follow-up.
+N0073,P0152,D06,2026-09-10,Presented with cough since 3 days. Fatigue also reported. Prescribed medication.
+N0074,P0031,D05,2026-09-04,Routine check-up. Mild headache. No other complaints.
+N0075,P0170,D08,2026-08-23,Patient complains of swelling and fever. Advised rest and follow-up.
+N0076,P0170,D02,2026-09-13,"Patient reports swelling, headache. Referred for further tests."
+N0077,P0035,D02,2026-09-11,Patient complains of cough and headache. Advised rest and follow-up.
+N0078,P0025,D09,2026-08-17,ROUTINE CHECK-UP. MILD HEADACHE. NO OTHER COMPLAINTS.
+N0079,P0082,D03,2026-09-07,Patient complains of dizziness and fever. Advised rest and follow-up.
+N0080,P0046,D02,2026-09-12,Patient complains of dizziness and swelling. Advised rest and follow-up.
+N0081,P0035,D05,2026-08-21,Presented with dizziness since 3 days. Joint pain also reported. Prescribed medication.
+N0082,P0046,D06,2026-08-12,Routine check-up. Mild swelling. No other complaints.
+N0083,P0195,D05,2026-08-19,Presented with fever since 3 days. Swelling also reported. Prescribed medication.
+N0084,P0134,D09,2026-08-14,"Patient reports cough, headache. Referred for further tests."
+N0085,P0122,D01,2026-08-16,PRESENTED WITH COUGH SINCE 3 DAYS. JOINT PAIN ALSO REPORTED. PRESCRIBED MEDICATION.
+N0086,P0028,D08,2026-08-12,Routine check-up. Mild headache. No other complaints.
+N0087,P0031,D06,2026-09-06,Routine check-up. Mild cough. No other complaints.
+N0088,P0191,D06,2026-09-11,Patient complains of fever and chest pain. Advised rest and follow-up.
+N0089,P0092,D02,2026-08-28,"Patient reports joint pain, dizziness. Referred for further tests."
+N0090,P0045,D04,2026-08-18,Routine check-up. Mild swelling. No other complaints.
+N0091,P0193,D03,2026-08-02,Routine check-up. Mild cough. No other complaints.
+N0092,P0027,D09,2026-08-15,Routine check-up. Mild headache. No other complaints.
+N0093,P0058,D03,2026-08-21,Presented with dizziness since 3 days. Cough also reported. Prescribed medication.
+N0094,P0097,D08,2026-09-10,"PATIENT REPORTS SWELLING, FATIGUE. REFERRED FOR FURTHER TESTS."
+N0095,P0061,D03,2026-08-27,Presented with headache since 3 days. Swelling also reported. Prescribed medication.
+N0096,P0021,D03,2026-09-09,"Patient reports swelling, dizziness. Referred for further tests."
+N0097,P0065,D03,2026-09-04,Routine check-up. Mild joint pain. No other complaints.
+N0098,P0002,D01,2026-09-10,Routine check-up. Mild dizziness. No other complaints.
+N0099,P0139,D10,2026-08-22,"Patient reports joint pain, fatigue. Referred for further tests."
+N0100,P0182,D08,2026-08-03,Patient complains of cough and fatigue. Advised rest and follow-up.
+N0101,P0154,D03,2026-08-28,Patient complains of fever and dizziness. Advised rest and follow-up.
+N0102,P0108,D04,2026-08-17,Routine check-up. Mild palpitations. No other complaints.
+N0103,P0057,D06,2026-09-10,"PATIENT REPORTS CHEST PAIN, PALPITATIONS. REFERRED FOR FURTHER TESTS."
+N0104,P0059,D02,2026-08-01,PATIENT COMPLAINS OF HEADACHE AND FATIGUE. ADVISED REST AND FOLLOW-UP.
+N0105,P0030,D09,2026-08-18,PATIENT COMPLAINS OF SWELLING AND FATIGUE. ADVISED REST AND FOLLOW-UP.
+N0106,P0075,D03,2026-08-05,Patient complains of palpitations and shortness of breath. Advised rest and follow-up.
+N0107,P0033,D09,2026-08-28,Routine check-up. Mild swelling. No other complaints.
+N0108,P0111,D01,2026-09-03,"Patient reports dizziness, joint pain. Referred for further tests."
+N0109,P0020,D03,2026-08-12,"Patient reports joint pain, fever. Referred for further tests."
+N0110,P0185,D08,2026-08-22,Patient complains of dizziness and fever. Advised rest and follow-up.
+N0111,P0041,D09,2026-08-29,Routine check-up. Mild cough. No other complaints.
+N0112,P0109,D03,2026-08-08,Routine check-up. Mild fever. No other complaints.
+N0113,P0187,D02,2026-08-26,"Patient reports dizziness, fatigue. Referred for further tests."
+N0114,P0068,D06,2026-09-02,ROUTINE CHECK-UP. MILD HEADACHE. NO OTHER COMPLAINTS.
+N0115,P0158,D03,2026-08-16,Routine check-up. Mild fever. No other complaints.
+N0116,P0186,D08,2026-08-18,Presented with joint pain since 3 days. Swelling also reported. Prescribed medication.
+N0117,P0187,D07,2026-08-09,Patient complains of swelling and fatigue. Advised rest and follow-up.
+N0118,P0012,D06,2026-08-23,Routine check-up. Mild joint pain. No other complaints.
+N0119,P0066,D08,2026-08-22,PRESENTED WITH FATIGUE SINCE 3 DAYS. DIZZINESS ALSO REPORTED. PRESCRIBED MEDICATION.
+N0120,P0044,D10,2026-08-18,ROUTINE CHECK-UP. MILD SWELLING. NO OTHER COMPLAINTS.
+N0121,P0146,D04,2026-08-11,"Patient reports fever, chest pain. Referred for further tests."
+N0122,P0068,D06,2026-09-14,"Patient reports joint pain, cough. Referred for further tests."
+N0123,P0163,D06,2026-09-07,Patient complains of headache and swelling. Advised rest and follow-up.
+N0124,P0173,D03,2026-08-10,Routine check-up. Mild joint pain. No other complaints.
+N0125,P0006,D01,2026-08-03,Routine check-up. Mild swelling. No other complaints.
+N0126,P0068,D01,2026-09-05,Patient complains of fever and swelling. Advised rest and follow-up.
+N0127,P0043,D04,2026-09-10,Routine check-up. Mild headache. No other complaints.
+N0128,P0165,D09,2026-08-13,"Patient reports shortness of breath, cough. Referred for further tests."
+N0129,P0197,D07,2026-08-13,PATIENT COMPLAINS OF COUGH AND FEVER. ADVISED REST AND FOLLOW-UP.
+N0130,P0145,D07,2026-09-08,Presented with palpitations since 3 days. Fever also reported. Prescribed medication.
+N0131,P0200,D03,2026-08-16,Routine check-up. Mild cough. No other complaints.
+N0132,P0019,D08,2026-08-05,"Patient reports headache, fever. Referred for further tests."
+N0133,P0104,D04,2026-08-16,Routine check-up. Mild dizziness. No other complaints.
+N0134,P0045,D09,2026-09-12,Patient complains of fever and fatigue. Advised rest and follow-up.
+N0135,P0088,D02,2026-08-30,Routine check-up. Mild headache. No other complaints.
+N0136,P0197,D09,2026-09-02,Patient complains of chest pain and palpitations. Advised rest and follow-up.
+N0137,P0150,D10,2026-09-13,"Patient reports joint pain, headache. Referred for further tests."
+N0138,P0154,D06,2026-08-25,Patient complains of headache and fatigue. Advised rest and follow-up.
+N0139,P0046,D02,2026-08-16,Routine check-up. Mild cough. No other complaints.
+N0140,P0016,D05,2026-08-27,Patient complains of palpitations and shortness of breath. Advised rest and follow-up.
+N0141,P0101,D02,2026-08-27,Patient complains of palpitations and fever. Advised rest and follow-up.
+N0142,P0029,D05,2026-08-01,Routine check-up. Mild shortness of breath. No other complaints.
+N0143,P0111,D08,2026-09-03,Presented with cough since 3 days. Dizziness also reported. Prescribed medication.
+N0144,P0098,D06,2026-08-23,"Patient reports fever, shortness of breath. Referred for further tests."
+N0145,P0127,D04,2026-08-22,Presented with fatigue since 3 days. Fever also reported. Prescribed medication.
+N0146,P0050,D08,2026-08-21,Presented with headache since 3 days. Swelling also reported. Prescribed medication.
+N0147,P0159,D07,2026-08-08,Routine check-up. Mild cough. No other complaints.
+N0148,P0023,D01,2026-08-13,Routine check-up. Mild dizziness. No other complaints.
+N0149,P0156,D09,2026-09-09,"Patient reports fever, joint pain. Referred for further tests."
+N0150,P0133,D04,2026-08-23,Patient complains of fever and fatigue. Advised rest and follow-up.
+N0151,P0191,D10,2026-09-13,Presented with cough since 3 days. Palpitations also reported. Prescribed medication.
+N0152,P0146,D03,2026-09-03,Routine check-up. Mild cough. No other complaints.
+N0153,P0078,D04,2026-08-16,Routine check-up. Mild joint pain. No other complaints.
+N0154,P0166,D09,2026-08-19,Routine check-up. Mild joint pain. No other complaints.
+N0155,P0150,D03,2026-09-12,"Patient reports headache, cough. Referred for further tests."
+N0156,P0072,D10,2026-08-31,Presented with swelling since 3 days. Fatigue also reported. Prescribed medication.
+N0157,P0008,D01,2026-08-30,Patient complains of fever and chest pain. Advised rest and follow-up.
+N0158,P0026,D07,2026-08-04,"Patient reports dizziness, joint pain. Referred for further tests."
+N0159,P0149,D07,2026-09-11,Patient complains of headache and dizziness. Advised rest and follow-up.
+N0160,P0119,D07,2026-08-23,Presented with joint pain since 3 days. Fever also reported. Prescribed medication.
+N0161,P0110,D06,2026-08-27,"Patient reports fever, fatigue. Referred for further tests."
+N0162,P0089,D04,2026-08-11,PRESENTED WITH SWELLING SINCE 3 DAYS. HEADACHE ALSO REPORTED. PRESCRIBED MEDICATION.
+N0163,P0160,D09,2026-08-10,Presented with cough since 3 days. Swelling also reported. Prescribed medication.
+N0164,P0018,D10,2026-08-06,PATIENT COMPLAINS OF SWELLING AND JOINT PAIN. ADVISED REST AND FOLLOW-UP.
+N0165,P0068,D09,2026-09-10,Presented with cough since 3 days. Swelling also reported. Prescribed medication.
+N0166,P0057,D07,2026-08-07,PATIENT COMPLAINS OF PALPITATIONS AND COUGH. ADVISED REST AND FOLLOW-UP.
+N0167,P0073,D07,2026-08-05,Routine check-up. Mild dizziness. No other complaints.
+N0168,P0028,D04,2026-09-11,"Patient reports fatigue, headache. Referred for further tests."
+N0169,P0058,D04,2026-09-08,Presented with fever since 3 days. Cough also reported. Prescribed medication.
+N0170,P0007,D01,2026-08-28,Routine check-up. Mild swelling. No other complaints.
+N0171,P0155,D05,2026-08-29,"Patient reports fever, cough. Referred for further tests."
+N0172,P0056,D07,2026-08-17,"Patient reports swelling, headache. Referred for further tests."
+N0173,P0113,D10,2026-08-10,Presented with joint pain since 3 days. Dizziness also reported. Prescribed medication.
+N0174,P0037,D07,2026-09-05,Patient complains of fatigue and dizziness. Advised rest and follow-up.
+N0175,P0153,D10,2026-08-09,Routine check-up. Mild fever. No other complaints.
+N0176,P0146,D01,2026-08-07,Presented with shortness of breath since 3 days. Chest pain also reported. Prescribed medication.
+N0177,P0072,D01,2026-09-01,Patient complains of joint pain and swelling. Advised rest and follow-up.
+N0178,P0078,D07,2026-08-20,"Patient reports headache, joint pain. Referred for further tests."
+N0179,P0059,D01,2026-08-08,Presented with fatigue since 3 days. Fever also reported. Prescribed medication.
+N0180,P0085,D01,2026-08-30,Patient complains of fever and cough. Advised rest and follow-up.
+N0181,P0040,D10,2026-08-24,Presented with headache since 3 days. Swelling also reported. Prescribed medication.
+N0182,P0196,D08,2026-08-14,"Patient reports fatigue, joint pain. Referred for further tests."
+N0183,P0143,D08,2026-09-11,Patient complains of swelling and headache. Advised rest and follow-up.
+N0184,P0080,D01,2026-08-24,Routine check-up. Mild swelling. No other complaints.
+N0185,P0193,D05,2026-08-29,Patient complains of fatigue and cough. Advised rest and follow-up.
+N0186,P0089,D06,2026-09-06,Patient complains of dizziness and fever. Advised rest and follow-up.
+N0187,P0175,D07,2026-09-05,"Patient reports fever, dizziness. Referred for further tests."
+N0188,P0101,D03,2026-08-06,Patient complains of chest pain and fever. Advised rest and follow-up.
+N0189,P0083,D08,2026-09-09,Patient complains of fatigue and headache. Advised rest and follow-up.
+N0190,P0029,D06,2026-09-01,"Patient reports palpitations, fever. Referred for further tests."
+N0191,P0084,D07,2026-08-08,PRESENTED WITH DIZZINESS SINCE 3 DAYS. FEVER ALSO REPORTED. PRESCRIBED MEDICATION.
+N0192,P0167,D01,2026-08-07,Presented with cough since 3 days. Joint pain also reported. Prescribed medication.
+N0193,P0148,D08,2026-08-30,"Patient reports headache, dizziness. Referred for further tests."
+N0194,P0073,D07,2026-08-30,"Patient reports headache, fever. Referred for further tests."
+N0195,P0074,D08,2026-08-20,Patient complains of swelling and fatigue. Advised rest and follow-up.
+N0196,P0114,D07,2026-09-08,Presented with swelling since 3 days. Fever also reported. Prescribed medication.
+N0197,P0079,D10,2026-08-15,Routine check-up. Mild fever. No other complaints.
+N0198,P0134,D08,2026-08-10,Patient complains of joint pain and cough. Advised rest and follow-up.
+N0199,P0180,D10,2026-09-09,Presented with fever since 3 days. Chest pain also reported. Prescribed medication.
+N0200,P0020,D06,2026-09-05,Patient complains of fatigue and cough. Advised rest and follow-up.
+N0201,P0057,D04,2026-08-06,"Patient reports shortness of breath, fever. Referred for further tests."
+N0202,P0128,D07,2026-08-21,Routine check-up. Mild fever. No other complaints.
+N0203,P0161,D07,2026-08-17,Routine check-up. Mild dizziness. No other complaints.
+N0204,P0139,D08,2026-09-05,"PATIENT REPORTS HEADACHE, DIZZINESS. REFERRED FOR FURTHER TESTS."
+N0205,P0139,D01,2026-08-06,Patient complains of cough and fever. Advised rest and follow-up.
+N0206,P0033,D02,2026-08-10,Presented with swelling since 3 days. Cough also reported. Prescribed medication.
+N0207,P0126,D01,2026-08-08,Presented with cough since 3 days. Palpitations also reported. Prescribed medication.
+N0208,P0050,D02,2026-08-31,"Patient reports cough, joint pain. Referred for further tests."
+N0209,P0194,D02,2026-09-10,"Patient reports palpitations, cough. Referred for further tests."
+N0210,P0046,D05,2026-08-28,Presented with fatigue since 3 days. Fever also reported. Prescribed medication.
+N0211,P0054,D10,2026-08-19,Patient complains of swelling and fatigue. Advised rest and follow-up.
+N0212,P0070,D03,2026-09-06,Presented with joint pain since 3 days. Fever also reported. Prescribed medication.
+N0213,P0122,D05,2026-08-16,Routine check-up. Mild joint pain. No other complaints.
+N0214,P0049,D09,2026-09-02,"Patient reports dizziness, cough. Referred for further tests."
+N0215,P0016,D07,2026-08-07,Patient complains of chest pain and palpitations. Advised rest and follow-up.
+N0216,P0033,D08,2026-08-07,Presented with headache since 3 days. Fatigue also reported. Prescribed medication.
+N0217,P0035,D01,2026-09-08,Patient complains of dizziness and fatigue. Advised rest and follow-up.
+N0218,P0004,D03,2026-09-01,Presented with cough since 3 days. Swelling also reported. Prescribed medication.
+N0219,P0014,D04,2026-08-20,Patient complains of shortness of breath and fever. Advised rest and follow-up.
+N0220,P0168,D05,2026-08-27,Patient complains of fever and joint pain. Advised rest and follow-up.
+N0221,P0004,D09,2026-09-13,"Patient reports fatigue, swelling. Referred for further tests."
+N0222,P0098,D10,2026-08-02,Patient complains of shortness of breath and palpitations. Advised rest and follow-up.
+N0223,P0127,D07,2026-09-04,Routine check-up. Mild fatigue. No other complaints.
+N0224,P0012,D09,2026-08-13,"Patient reports fatigue, dizziness. Referred for further tests."
+N0225,P0078,D01,2026-08-11,Patient complains of fever and dizziness. Advised rest and follow-up.
+N0226,P0194,D01,2026-09-05,Patient complains of cough and fever. Advised rest and follow-up.
+N0227,P0169,D03,2026-08-09,Presented with swelling since 3 days. Headache also reported. Prescribed medication.
+N0228,P0051,D08,2026-08-05,Patient complains of chest pain and shortness of breath. Advised rest and follow-up.
+N0229,P0003,D02,2026-09-03,PATIENT COMPLAINS OF COUGH AND HEADACHE. ADVISED REST AND FOLLOW-UP.
+N0230,P0007,D05,2026-08-01,Routine check-up. Mild swelling. No other complaints.
+N0231,P0137,D07,2026-08-05,Presented with fatigue since 3 days. Headache also reported. Prescribed medication.
+N0232,P0110,D01,2026-08-05,Patient complains of cough and fever. Advised rest and follow-up.
+N0233,P0065,D10,2026-08-30,Routine check-up. Mild fatigue. No other complaints.
+N0234,P0147,D09,2026-08-06,Presented with swelling since 3 days. Joint pain also reported. Prescribed medication.
+N0235,P0195,D05,2026-09-13,Presented with dizziness since 3 days. Headache also reported. Prescribed medication.
+N0236,P0141,D02,2026-08-09,Presented with joint pain since 3 days. Swelling also reported. Prescribed medication.
+N0237,P0029,D03,2026-08-10,ROUTINE CHECK-UP. MILD FEVER. NO OTHER COMPLAINTS.
+N0238,P0170,D04,2026-08-26,ROUTINE CHECK-UP. MILD DIZZINESS. NO OTHER COMPLAINTS.
+N0239,P0109,D06,2026-09-13,Routine check-up. Mild fever. No other complaints.
+N0240,P0073,D03,2026-08-03,Patient complains of fever and cough. Advised rest and follow-up.
+N0241,P0149,D06,2026-08-10,"Patient reports fever, cough. Referred for further tests."
+N0242,P0054,D08,2026-09-05,Patient complains of headache and swelling. Advised rest and follow-up.
+N0243,P0173,D07,2026-08-21,Routine check-up. Mild fatigue. No other complaints.
+N0244,P0082,D04,2026-08-01,Routine check-up. Mild fever. No other complaints.
+N0245,P0017,D04,2026-08-18,"Patient reports cough, fatigue. Referred for further tests."
+N0246,P0013,D07,2026-08-04,Patient complains of cough and joint pain. Advised rest and follow-up.
+N0247,P0094,D04,2026-08-03,Presented with headache since 3 days. Cough also reported. Prescribed medication.
+N0248,P0191,D09,2026-08-12,Presented with cough since 3 days. Chest pain also reported. Prescribed medication.
+N0249,P0087,D02,2026-08-11,Patient complains of cough and joint pain. Advised rest and follow-up.
+N0250,P0115,D06,2026-08-30,"Patient reports cough, swelling. Referred for further tests."
+N0251,P0116,D02,2026-08-06,Patient complains of dizziness and joint pain. Advised rest and follow-up.
+N0252,P0107,D06,2026-08-01,"Patient reports joint pain, fatigue. Referred for further tests."
+N0253,P0104,D09,2026-08-18,Presented with swelling since 3 days. Fatigue also reported. Prescribed medication.
+N0254,P0160,D09,2026-08-06,Patient complains of dizziness and fatigue. Advised rest and follow-up.
+N0255,P0166,D09,2026-08-11,"PATIENT REPORTS DIZZINESS, JOINT PAIN. REFERRED FOR FURTHER TESTS."
+N0256,P0157,D04,2026-08-16,"Patient reports dizziness, swelling. Referred for further tests."
+N0257,P0042,D10,2026-08-10,Routine check-up. Mild palpitations. No other complaints.
+N0258,P0036,D04,2026-08-30,"Patient reports fatigue, joint pain. Referred for further tests."
+N0259,P0098,D10,2026-08-27,Presented with cough since 3 days. Fever also reported. Prescribed medication.
+N0260,P0059,D04,2026-08-11,Routine check-up. Mild swelling. No other complaints.
+N0261,P0001,D05,2026-08-08,PATIENT COMPLAINS OF COUGH AND FATIGUE. ADVISED REST AND FOLLOW-UP.
+N0262,P0185,D07,2026-09-08,Patient complains of fatigue and joint pain. Advised rest and follow-up.
+N0263,P0029,D09,2026-08-07,Presented with fever since 3 days. Chest pain also reported. Prescribed medication.
+N0264,P0144,D07,2026-08-24,Routine check-up. Mild headache. No other complaints.
+N0265,P0147,D05,2026-08-28,Patient complains of fever and swelling. Advised rest and follow-up.
+N0266,P0159,D07,2026-08-18,Routine check-up. Mild headache. No other complaints.
+N0267,P0035,D03,2026-09-14,Routine check-up. Mild cough. No other complaints.
+N0268,P0137,D08,2026-08-14,Presented with dizziness since 3 days. Fever also reported. Prescribed medication.
+N0269,P0117,D07,2026-09-14,Patient complains of fever and joint pain. Advised rest and follow-up.
+N0270,P0024,D02,2026-09-01,Routine check-up. Mild fatigue. No other complaints.
+N0271,P0114,D10,2026-08-07,Patient complains of cough and fatigue. Advised rest and follow-up.
+N0272,P0191,D02,2026-09-12,Presented with chest pain since 3 days. Shortness of breath also reported. Prescribed medication.
+N0273,P0108,D03,2026-08-15,"Patient reports cough, palpitations. Referred for further tests."
+N0274,P0182,D10,2026-08-18,Patient complains of swelling and fatigue. Advised rest and follow-up.
+N0275,P0119,D10,2026-09-05,Routine check-up. Mild headache. No other complaints.
+N0276,P0010,D02,2026-08-13,"Patient reports swelling, headache. Referred for further tests."
+N0277,P0189,D08,2026-08-29,Routine check-up. Mild dizziness. No other complaints.
+N0278,P0074,D04,2026-08-12,"Patient reports fatigue, fever. Referred for further tests."
+N0279,P0130,D01,2026-08-21,Presented with fatigue since 3 days. Dizziness also reported. Prescribed medication.
+N0280,P0026,D10,2026-08-18,Patient complains of swelling and headache. Advised rest and follow-up.
+N0281,P0111,D04,2026-08-14,PRESENTED WITH JOINT PAIN SINCE 3 DAYS. FATIGUE ALSO REPORTED. PRESCRIBED MEDICATION.
+N0282,P0156,D05,2026-09-07,Presented with dizziness since 3 days. Fatigue also reported. Prescribed medication.
+N0283,P0134,D01,2026-08-16,Patient complains of fatigue and joint pain. Advised rest and follow-up.
+N0284,P0126,D08,2026-08-18,"Patient reports cough, fever. Referred for further tests."
+N0285,P0048,D03,2026-08-03,Presented with fatigue since 3 days. Cough also reported. Prescribed medication.
+N0286,P0069,D07,2026-08-01,Routine check-up. Mild fatigue. No other complaints.
+N0287,P0154,D05,2026-08-28,Routine check-up. Mild swelling. No other complaints.
+N0288,P0141,D06,2026-08-09,"Patient reports dizziness, joint pain. Referred for further tests."
+N0289,P0077,D07,2026-08-17,"Patient reports fatigue, fever. Referred for further tests."
+N0290,P0081,D07,2026-09-12,PATIENT COMPLAINS OF HEADACHE AND DIZZINESS. ADVISED REST AND FOLLOW-UP.
+N0291,P0138,D01,2026-09-07,"Patient reports dizziness, cough. Referred for further tests."
+N0292,P0034,D09,2026-09-07,Patient complains of fatigue and dizziness. Advised rest and follow-up.
+N0293,P0050,D07,2026-09-12,"Patient reports fatigue, dizziness. Referred for further tests."
+N0294,P0046,D06,2026-08-31,Routine check-up. Mild fever. No other complaints.
+N0295,P0033,D10,2026-08-25,"PATIENT REPORTS COUGH, FATIGUE. REFERRED FOR FURTHER TESTS."
+N0296,P0166,D01,2026-09-03,"Patient reports joint pain, fever. Referred for further tests."
+N0297,P0129,D08,2026-08-11,"Patient reports cough, fever. Referred for further tests."
+N0298,P0040,D03,2026-08-04,Presented with swelling since 3 days. Dizziness also reported. Prescribed medication.
+N0299,P0004,D10,2026-08-13,Presented with fatigue since 3 days. Joint pain also reported. Prescribed medication.
+N0300,P0110,D01,2026-09-09,Routine check-up. Mild swelling. No other complaints.
+N0301,P0040,D09,2026-09-10,Presented with cough since 3 days. Fatigue also reported. Prescribed medication.
+N0302,P0023,D06,2026-08-03,Patient complains of joint pain and fatigue. Advised rest and follow-up.
+N0303,P0030,D02,2026-08-02,Presented with swelling since 3 days. Joint pain also reported. Prescribed medication.
+N0304,P0159,D04,2026-09-01,Routine check-up. Mild fever. No other complaints.
+N0305,P0165,D03,2026-08-29,PRESENTED WITH PALPITATIONS SINCE 3 DAYS. CHEST PAIN ALSO REPORTED. PRESCRIBED MEDICATION.
+N0306,P0163,D04,2026-09-01,"Patient reports dizziness, cough. Referred for further tests."
+N0307,P0004,D03,2026-08-01,Presented with headache since 3 days. Joint pain also reported. Prescribed medication.
+N0308,P0049,D08,2026-08-19,Routine check-up. Mild fatigue. No other complaints.
+N0309,P0154,D09,2026-09-02,Patient complains of fatigue and joint pain. Advised rest and follow-up.
+N0310,P0113,D03,2026-09-06,Presented with headache since 3 days. Cough also reported. Prescribed medication.
+N0311,P0117,D03,2026-09-11,Presented with fever since 3 days. Dizziness also reported. Prescribed medication.
+N0312,P0007,D10,2026-08-23,PATIENT COMPLAINS OF FATIGUE AND JOINT PAIN. ADVISED REST AND FOLLOW-UP.
+N0313,P0185,D02,2026-09-14,Presented with cough since 3 days. Headache also reported. Prescribed medication.
+N0314,P0198,D05,2026-09-11,Presented with fatigue since 3 days. Fever also reported. Prescribed medication.
+N0315,P0063,D06,2026-09-07,Routine check-up. Mild swelling. No other complaints.
+N0316,P0013,D03,2026-08-19,"Patient reports swelling, cough. Referred for further tests."
+N0317,P0152,D07,2026-08-17,Routine check-up. Mild joint pain. No other complaints.
+N0318,P0002,D10,2026-09-07,Patient complains of swelling and fatigue. Advised rest and follow-up.
+N0319,P0090,D06,2026-08-21,Presented with swelling since 3 days. Cough also reported. Prescribed medication.
+N0320,P0068,D02,2026-09-11,Presented with swelling since 3 days. Fatigue also reported. Prescribed medication.
+N0321,P0022,D04,2026-09-02,PATIENT COMPLAINS OF JOINT PAIN AND FATIGUE. ADVISED REST AND FOLLOW-UP.
+N0322,P0018,D09,2026-08-06,Routine check-up. Mild fatigue. No other complaints.
+N0323,P0061,D06,2026-09-06,Presented with joint pain since 3 days. Headache also reported. Prescribed medication.
+N0324,P0008,D03,2026-09-04,"Patient reports cough, chest pain. Referred for further tests."
+N0325,P0176,D03,2026-08-06,Routine check-up. Mild fatigue. No other complaints.
+N0326,P0032,D10,2026-08-11,"Patient reports fever, cough. Referred for further tests."
+N0327,P0063,D10,2026-08-05,"PATIENT REPORTS HEADACHE, SWELLING. REFERRED FOR FURTHER TESTS."
+N0328,P0172,D01,2026-08-05,Patient complains of headache and joint pain. Advised rest and follow-up.
+N0329,P0137,D05,2026-08-23,Patient complains of headache and fever. Advised rest and follow-up.
+N0330,P0149,D05,2026-09-01,Presented with fever since 3 days. Cough also reported. Prescribed medication.
+N0331,P0007,D07,2026-08-23,Routine check-up. Mild headache. No other complaints.
+N0332,P0159,D04,2026-08-15,Presented with cough since 3 days. Joint pain also reported. Prescribed medication.
+N0333,P0012,D05,2026-09-03,Patient complains of swelling and fever. Advised rest and follow-up.
+N0334,P0048,D04,2026-09-14,Presented with fatigue since 3 days. Headache also reported. Prescribed medication.
+N0335,P0144,D02,2026-08-24,Presented with dizziness since 3 days. Joint pain also reported. Prescribed medication.
+N0336,P0103,D02,2026-09-02,Patient complains of swelling and cough. Advised rest and follow-up.
+N0337,P0081,D03,2026-08-15,Patient complains of cough and dizziness. Advised rest and follow-up.
+N0338,P0145,D03,2026-08-24,Patient complains of shortness of breath and cough. Advised rest and follow-up.
+N0339,P0104,D06,2026-08-05,"Patient reports fatigue, swelling. Referred for further tests."
+N0340,P0132,D07,2026-09-09,Routine check-up. Mild swelling. No other complaints.
+N0341,P0062,D06,2026-08-28,Patient complains of chest pain and palpitations. Advised rest and follow-up.
+N0342,P0081,D05,2026-08-29,"Patient reports fever, headache. Referred for further tests."
+N0343,P0066,D01,2026-08-06,PATIENT COMPLAINS OF DIZZINESS AND SWELLING. ADVISED REST AND FOLLOW-UP.
+N0344,P0005,D03,2026-08-11,Patient complains of joint pain and fatigue. Advised rest and follow-up.
+N0345,P0029,D07,2026-08-21,Patient complains of chest pain and fever. Advised rest and follow-up.
+N0346,P0072,D10,2026-09-05,Routine check-up. Mild cough. No other complaints.
+N0347,P0077,D10,2026-08-31,Routine check-up. Mild cough. No other complaints.
+N0348,P0198,D02,2026-08-22,Presented with headache since 3 days. Dizziness also reported. Prescribed medication.
+N0349,P0139,D01,2026-08-07,ROUTINE CHECK-UP. MILD COUGH. NO OTHER COMPLAINTS.
+N0350,P0186,D07,2026-08-07,Routine check-up. Mild swelling. No other complaints.
+N0351,P0083,D03,2026-09-04,Patient complains of fever and joint pain. Advised rest and follow-up.
+N0352,P0003,D10,2026-08-15,Patient complains of headache and joint pain. Advised rest and follow-up.
+N0353,P0096,D02,2026-08-24,"Patient reports cough, joint pain. Referred for further tests."
+N0354,P0111,D06,2026-08-25,PRESENTED WITH DIZZINESS SINCE 3 DAYS. SWELLING ALSO REPORTED. PRESCRIBED MEDICATION.
+N0355,P0032,D05,2026-08-28,Presented with joint pain since 3 days. Swelling also reported. Prescribed medication.
+N0356,P0037,D06,2026-08-23,PATIENT COMPLAINS OF DIZZINESS AND COUGH. ADVISED REST AND FOLLOW-UP.
+N0357,P0053,D10,2026-08-16,Presented with dizziness since 3 days. Joint pain also reported. Prescribed medication.
+N0358,P0113,D08,2026-08-16,Routine check-up. Mild headache. No other complaints.
+N0359,P0073,D09,2026-09-05,Presented with dizziness since 3 days. Cough also reported. Prescribed medication.
+N0360,P0196,D06,2026-08-02,Routine check-up. Mild cough. No other complaints.
+N0361,P0050,D03,2026-08-01,Routine check-up. Mild headache. No other complaints.
+N0362,P0181,D01,2026-08-30,Patient complains of fever and joint pain. Advised rest and follow-up.
+N0363,P0027,D03,2026-09-02,Presented with cough since 3 days. Swelling also reported. Prescribed medication.
+N0364,P0199,D05,2026-08-03,Routine check-up. Mild dizziness. No other complaints.
+N0365,P0114,D08,2026-08-11,Presented with fatigue since 3 days. Dizziness also reported. Prescribed medication.
+N0366,P0169,D08,2026-08-04,ROUTINE CHECK-UP. MILD HEADACHE. NO OTHER COMPLAINTS.
+N0367,P0155,D05,2026-08-30,Routine check-up. Mild swelling. No other complaints.
+N0368,P0162,D04,2026-08-28,Patient complains of headache and cough. Advised rest and follow-up.
+N0369,P0113,D10,2026-08-08,Routine check-up. Mild cough. No other complaints.
+N0370,P0167,D06,2026-08-13,"Patient reports headache, dizziness. Referred for further tests."
+N0371,P0117,D04,2026-08-09,"Patient reports headache, dizziness. Referred for further tests."
+N0372,P0140,D01,2026-08-24,Patient complains of swelling and dizziness. Advised rest and follow-up.
+N0373,P0157,D02,2026-08-21,"Patient reports swelling, fever. Referred for further tests."
+N0374,P0036,D01,2026-08-12,Presented with dizziness since 3 days. Joint pain also reported. Prescribed medication.
+N0375,P0111,D09,2026-09-04,PATIENT COMPLAINS OF COUGH AND FATIGUE. ADVISED REST AND FOLLOW-UP.
+N0376,P0015,D06,2026-08-01,Presented with chest pain since 3 days. Shortness of breath also reported. Prescribed medication.
+N0377,P0177,D08,2026-08-29,Patient complains of dizziness and fever. Advised rest and follow-up.
+N0378,P0177,D09,2026-09-05,Presented with cough since 3 days. Fatigue also reported. Prescribed medication.
+N0379,P0018,D10,2026-08-09,Presented with fatigue since 3 days. Fever also reported. Prescribed medication.
+N0380,P0110,D08,2026-08-06,Presented with headache since 3 days. Fatigue also reported. Prescribed medication.
+N0381,P0075,D10,2026-09-04,Routine check-up. Mild palpitations. No other complaints.
+N0382,P0110,D08,2026-08-30,Presented with cough since 3 days. Dizziness also reported. Prescribed medication.
+N0383,P0057,D03,2026-08-09,Patient complains of fever and chest pain. Advised rest and follow-up.
+N0384,P0075,D02,2026-08-24,Routine check-up. Mild shortness of breath. No other complaints.
+N0385,P0075,D03,2026-08-14,"Patient reports cough, palpitations. Referred for further tests."
+N0386,P0092,D04,2026-09-10,Presented with headache since 3 days. Fever also reported. Prescribed medication.
+N0387,P0104,D02,2026-08-06,Presented with swelling since 3 days. Dizziness also reported. Prescribed medication.
+N0388,P0097,D06,2026-09-06,Presented with dizziness since 3 days. Swelling also reported. Prescribed medication.
+N0389,P0065,D07,2026-09-12,Routine check-up. Mild headache. No other complaints.
+N0390,P0041,D02,2026-08-30,Presented with cough since 3 days. Joint pain also reported. Prescribed medication.
+N0391,P0105,D02,2026-09-12,Patient complains of joint pain and swelling. Advised rest and follow-up.
+N0392,P0165,D05,2026-08-20,Patient complains of chest pain and palpitations. Advised rest and follow-up.
+N0393,P0111,D08,2026-08-13,Routine check-up. Mild dizziness. No other complaints.
+N0394,P0089,D07,2026-08-08,Routine check-up. Mild cough. No other complaints.
+N0395,P0028,D09,2026-09-13,PATIENT COMPLAINS OF HEADACHE AND COUGH. ADVISED REST AND FOLLOW-UP.
+N0396,P0150,D02,2026-08-13,"Patient reports fatigue, joint pain. Referred for further tests."
+N0397,P0079,D04,2026-08-14,Patient complains of cough and joint pain. Advised rest and follow-up.
+N0398,P0142,D03,2026-08-31,Routine check-up. Mild cough. No other complaints.
+N0399,P0078,D06,2026-09-14,Routine check-up. Mild joint pain. No other complaints.
+N0400,P0074,D03,2026-08-11,Patient complains of fatigue and headache. Advised rest and follow-up.
+N0401,P0163,D08,2026-09-07,Presented with cough since 3 days. Joint pain also reported. Prescribed medication.
+N0402,P0198,D07,2026-08-30,Presented with fatigue since 3 days. Cough also reported. Prescribed medication.
+N0403,P0122,D10,2026-09-06,Routine check-up. Mild fever. No other complaints.
+N0404,P0061,D03,2026-08-24,Patient complains of dizziness and joint pain. Advised rest and follow-up.
+N0405,P0133,D09,2026-08-07,Patient complains of cough and fatigue. Advised rest and follow-up.
+N0406,P0195,D09,2026-08-05,"Patient reports joint pain, headache. Referred for further tests."
+N0407,P0002,D08,2026-09-10,Presented with fever since 3 days. Swelling also reported. Prescribed medication.
+N0408,P0195,D02,2026-09-09,Presented with dizziness since 3 days. Fatigue also reported. Prescribed medication.
+N0409,P0080,D02,2026-08-16,"Patient reports fever, headache. Referred for further tests."
+N0410,P0176,D02,2026-08-19,"Patient reports dizziness, joint pain. Referred for further tests."
+N0411,P0051,D01,2026-08-10,Presented with shortness of breath since 3 days. Chest pain also reported. Prescribed medication.
+N0412,P0124,D09,2026-08-26,Routine check-up. Mild fever. No other complaints.
+N0413,P0089,D04,2026-08-16,"Patient reports headache, fever. Referred for further tests."
+N0414,P0177,D05,2026-09-03,Presented with swelling since 3 days. Fever also reported. Prescribed medication.
+N0415,P0137,D02,2026-09-11,"Patient reports fatigue, cough. Referred for further tests."
+N0416,P0104,D02,2026-09-05,Patient complains of fatigue and headache. Advised rest and follow-up.
+N0417,P0040,D08,2026-09-04,Presented with swelling since 3 days. Fever also reported. Prescribed medication.
+N0418,P0138,D08,2026-09-12,Routine check-up. Mild swelling. No other complaints.
+N0419,P0123,D06,2026-09-02,Patient complains of headache and swelling. Advised rest and follow-up.
+N0420,P0194,D01,2026-08-15,"Patient reports palpitations, cough. Referred for further tests."
+N0421,P0074,D05,2026-08-29,Routine check-up. Mild fatigue. No other complaints.
+N0422,P0150,D01,2026-08-14,Patient complains of swelling and fever. Advised rest and follow-up.
+N0423,P0042,D04,2026-08-28,Patient complains of cough and fever. Advised rest and follow-up.
+N0424,P0119,D09,2026-08-17,"Patient reports dizziness, fatigue. Referred for further tests."
+N0425,P0009,D06,2026-09-13,Patient complains of headache and cough. Advised rest and follow-up.
+N0426,P0014,D05,2026-08-08,Patient complains of palpitations and chest pain. Advised rest and follow-up.
+N0427,P0196,D10,2026-08-09,Presented with fever since 3 days. Fatigue also reported. Prescribed medication.
+N0428,P0069,D05,2026-08-31,Routine check-up. Mild fatigue. No other complaints.
+N0429,P0191,D04,2026-09-04,Routine check-up. Mild palpitations. No other complaints.
+N0430,P0119,D10,2026-09-13,Routine check-up. Mild joint pain. No other complaints.
+N0431,P0145,D09,2026-08-04,Presented with fever since 3 days. Cough also reported. Prescribed medication.
+N0432,P0112,D06,2026-09-04,Routine check-up. Mild dizziness. No other complaints.
+N0433,P0198,D08,2026-09-05,Presented with swelling since 3 days. Joint pain also reported. Prescribed medication.
+N0434,P0176,D02,2026-09-05,"Patient reports fatigue, fever. Referred for further tests."
+N0435,P0072,D07,2026-09-10,Presented with fatigue since 3 days. Joint pain also reported. Prescribed medication.
+N0436,P0158,D08,2026-08-19,"Patient reports cough, fever. Referred for further tests."
+N0437,P0116,D08,2026-09-01,"Patient reports cough, headache. Referred for further tests."
+N0438,P0045,D09,2026-08-12,Routine check-up. Mild swelling. No other complaints.
+N0439,P0023,D04,2026-09-09,Patient complains of fatigue and swelling. Advised rest and follow-up.
+N0440,P0133,D03,2026-08-18,"Patient reports joint pain, dizziness. Referred for further tests."
+N0441,P0128,D01,2026-08-26,Patient complains of fatigue and dizziness. Advised rest and follow-up.
+N0442,P0112,D07,2026-08-31,Patient complains of fatigue and fever. Advised rest and follow-up.
+N0443,P0062,D03,2026-08-11,Presented with shortness of breath since 3 days. Chest pain also reported. Prescribed medication.
+N0444,P0186,D05,2026-08-25,"Patient reports fatigue, swelling. Referred for further tests."
+N0445,P0080,D05,2026-08-02,Routine check-up. Mild swelling. No other complaints.
+N0446,P0014,D08,2026-09-04,Presented with cough since 3 days. Palpitations also reported. Prescribed medication.
+N0447,P0024,D10,2026-09-06,"Patient reports swelling, fatigue. Referred for further tests."
+N0448,P0020,D05,2026-08-01,Routine check-up. Mild dizziness. No other complaints.
+N0449,P0162,D03,2026-08-09,"Patient reports fever, dizziness. Referred for further tests."
+N0450,P0160,D05,2026-09-05,Routine check-up. Mild headache. No other complaints.
